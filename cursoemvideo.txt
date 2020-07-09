@@ -1,4 +1,5 @@
-Filipi;19
-Lara;17
-Leonardo;7
-Gabriela;5
+Filipi;18
+Leonardo Dicaprio;46
+Lara Yanez;17
+Pedro Caleb;19
+Miguel;25
