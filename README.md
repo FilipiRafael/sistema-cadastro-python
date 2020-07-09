@@ -1,2 +1,2 @@
 # sistema-cadastro-python
- Sistema de cadastro de pessoas com banco de dados desenvolvido em Python
+ Sistema de cadastro de pessoas com banco de dados em arquivo desenvolvido em Python
