@@ -1,10 +1,17 @@
 from lib import interface
+from lib.arquivo.__inity__ import arquivoExiste, criar_arquivo, ler_arquivo
 from time import sleep
+
+arq = 'cursoemvideo.txt'
+
+if not arquivoExiste(arq):
+    criar_arquivo(arq)
 
 while True:
     user = interface.programa(['VER PESSOAS CADASTRADAS', 'CADASTRAR UMA NOVA PESSOA', 'SAIR DO SISTEMA'])
     if user == 1:
-        interface.menu('Opção 1')
+        # Listar conteúdo do arquivo das pessoas cadastradas
+        ler_arquivo(arq)
     elif user == 2:
         interface.menu('Opção 2')
     elif user == 3:

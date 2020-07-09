@@ -1,4 +1,4 @@
-import __inity__
+from __inity__ import leiaInt
 
 
 def linha(tam=42):
@@ -18,5 +18,5 @@ def programa(lista):
         print(f'{c} - {item}')
         c += 1
     print(linha(18))
-    opcao = __inity__.leiaInt('Digite a opção desejada: ')
+    opcao = leiaInt('Digite a opção desejada: ')
     return opcao
