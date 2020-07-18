@@ -26,4 +26,4 @@ while True:
         interface.menu('\033[1;31mOpção inválidade, digite novamente!\033[m')
     sleep(2)
         
-    
+  
