@@ -6,3 +6,4 @@
 ![cadastrar_nova_pessoa_e_fechando_programa.png](https://github.com/FilipiRafael/sistema-cadastro-python/blob/master/screenshots/cadastrar_nova_pessoa_e_fechando_programa.png)
 # 03. Por fim, o arquivo permanente salvo com todas as pessoas no sistema cadastradas, podendo ser consultado a qualquer momento.
 ![arquivo_txt.png](https://github.com/FilipiRafael/sistema-cadastro-python/blob/master/screenshots/arquivo_txt.png)
+# Você pode modificar e adicionar inúmeras funções ao programa de acordo com sua necessidade.
