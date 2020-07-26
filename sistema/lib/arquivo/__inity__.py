@@ -41,7 +41,7 @@ def ler_arquivo(nome):
     
 def cadastrar(arquivo, nome='<Desconhecido>', idade=0):
     try:
-        a = open(arquivo, 'at')
+        a = open(arquivo, 'at', encoding='utf-8')
     except:
         print('Houve um erro na abertura do arquivo!')
     else:
